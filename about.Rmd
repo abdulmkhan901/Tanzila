@@ -9,9 +9,3 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-```{r setup1, include=TRUE, fig.cap= "See How Beautifool I Am!" }
-# don't show code unless we explicitly set echo = TRUE
-knitr::include_graphics("tanzilla.jpg")
-
-library(tidyverse)
-```
