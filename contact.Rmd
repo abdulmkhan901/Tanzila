@@ -1,0 +1,24 @@
+---
+title: "Contact"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+E-33, Sher-E-Bangla Nagar, 
+
+Agargaon, Dhaka-1207
+
+Bangladesh
+
+Phone +8801520100517
+
+<tanzilasultanarumki@gmail.com>
+
+<tanzila.sultana@bigm.edu.bd>
+
+
+
+
+

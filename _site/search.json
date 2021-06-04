@@ -3,25 +3,32 @@
     {
       "path": "about.html",
       "title": "About Tanzila Sultana",
-      "description": "As a research enthusiast from the beginning of her student life, Tanzila Sultana wants to be a prominent social science researcher in Bangladesh. She obtained her knowledge and experiences on various steps of research like survey, survey supervision, data collection, analyzing, and report writing while working with many remarkable and distinguished researchers. Her research interest lies in the domain of labor economic dynamics in the South Asian region through the lens of behavioral economics.",
+      "description": "As a research enthusiast from the beginning of her student life, Tanzila Sultana wants to be a prominent social science researcher in Bangladesh. She obtained her knowledge and experiences on various steps of research like survey, survey supervision, data collection, analyzing, and report writing while working with many remarkable and distinguished researchers. Her research interest lies in the domain of labor economic dynamics in the South Asian region through the lens of behavioral economics.\n![optional caption text](tanzila.jpg)",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-04T23:23:09+06:00"
+      "contents": "\r\nAcademic Qualifications\r\nMSc in Economics(2015)\r\nJahangirnagar University\r\n3.77 out of 4.00 (6th out of 82 students)\r\n\r\nBSc in Economics(2014)\r\nJahangirnagar University\r\n3.70 out of 4.00 (5th out of 109 students)\r\n\r\nHSC in Humanities(2010)\r\nHoly Cross College\r\n5.00 out of 5.00\r\n\r\nSSC in Humanities(2008)\r\nHoly Cross Girls’ High School\r\n4.75 out of 5.00\r\n\r\nJob Experience\r\nBangladesh Institution of Government and Management (BIGM)\r\nResearch Associate\r\nMarch 2019 to current\r\n\r\nBangladesh Institution of Development Studies (BIDS)\r\nResearch Officer\r\nJune 2018 to December 2018\r\n\r\nCenter for Policy Dialogue (CPD)\r\nProgram Associate\r\nMarch 2018 to June 2018\r\n\r\nNotre Dame College\r\nLecturer\r\nJune 2017 to August 2017\r\n\r\nFriedrich Ebert Stiftung\r\nResearch Fellow\r\nFebruary 2017 to October 2017\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-05T00:14:07+06:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "author": [],
+      "contents": "\r\nE-33, Sher-E-Bangla Nagar,\r\nAgargaon, Dhaka-1207\r\nBangladesh\r\nPhone +8801520100517\r\ntanzilasultanarumki@gmail.com\r\ntanzila.sultana@bigm.edu.bd\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-05T00:14:08+06:00"
     },
     {
       "path": "index.html",
       "title": "Tanzila Sultana",
-      "description": "Hi, I am Tanzila Sultana. I am currently working as a researcher in Bangladesh Institute of Government and Management.\n",
+      "description": "Welcome to the personal website of Tanzila Sultana. She is currently working as a research associate in Bangladesh Institute of Government and Management(BIGM). Her expertise is in panel data analysis and labor economics. She also takes classes on research methodology and policy analysis and conduct training sessions on Stata and R. Before BIGM, she worked as a researcher in various reputed reseach organizations such as BIDS and CPD in various positions with varying level of research scope.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-04T23:23:10+06:00"
+      "last_modified": "2021-06-05T00:23:46+06:00"
     },
     {
       "path": "research.html",
       "title": "Research Work",
       "author": [],
       "contents": "\r\nExploring the linkage between human Capital and Economic Growth\r\nIn this paper we tried to see if there is any linkage between human capital and economic growth.\r\nAsymmetric and skill wise labor migration\r\nIn this paper we tried to see if labor migration from developing country gives different remittances if they are divided into skill wise labor migration.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-04T23:23:10+06:00"
+      "last_modified": "2021-06-05T00:14:09+06:00"
     }
   ],
   "collections": []

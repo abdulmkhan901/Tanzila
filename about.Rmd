@@ -2,6 +2,7 @@
 title: "About Tanzila Sultana"
 description: |
   As a research enthusiast from the beginning of her student life, Tanzila Sultana wants to be a prominent social science researcher in Bangladesh. She obtained her knowledge and experiences on various steps of research like survey, survey supervision, data collection, analyzing, and report writing while working with many remarkable and distinguished researchers. Her research interest lies in the domain of labor economic dynamics in the South Asian region through the lens of behavioral economics.
+  ![optional caption text](tanzila.jpg)
 ---
 
 ```{r setup, include=FALSE}
@@ -9,3 +10,39 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+## Academic Qualifications
+* MSc in Economics(2015)
+
+  + Jahangirnagar University
+  + 3.77 out of 4.00 (6th out of 82 students)
+* BSc in Economics(2014)
+  + Jahangirnagar University
+  
+  + 3.70 out of 4.00 (5th out of 109 students)
+* HSC in Humanities(2010)
+  + Holy Cross College
+  + 5.00 out of 5.00
+* SSC in Humanities(2008)
+  + Holy Cross Girls’ High School
+  + 4.75 out of 5.00
+
+
+## Job Experience
+* Bangladesh Institution of Government and Management (BIGM)
+  + Research Associate
+  + March 2019 to current
+* Bangladesh Institution of Development Studies (BIDS)
+  + Research Officer
+  + June 2018 to December 2018
+* Center for Policy Dialogue (CPD)
+  + Program Associate
+  + March 2018 to June 2018
+* Notre Dame College
+  + Lecturer
+  + June 2017 to August 2017
+* Friedrich Ebert Stiftung
+  + Research Fellow
+  + February 2017 to October 2017
+
+
+## 
