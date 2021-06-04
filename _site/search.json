@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "I am the evil princess and like to eat chocalate in her golden pony. I like to agonize other people cause my actual name is Torture Sultana.",
+      "title": "About Tanzila Sultana",
+      "description": "As a research enthusiast from the beginning of her student life, Tanzila Sultana wants to be a prominent social science researcher in Bangladesh. She obtained her knowledge and experiences on various steps of research like survey, survey supervision, data collection, analyzing, and report writing while working with many remarkable and distinguished researchers. Her research interest lies in the domain of labor economic dynamics in the South Asian region through the lens of behavioral economics.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-04T22:57:33+06:00"
+      "last_modified": "2021-06-04T23:23:09+06:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,14 @@
       "description": "Hi, I am Tanzila Sultana. I am currently working as a researcher in Bangladesh Institute of Government and Management.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-04T22:57:33+06:00"
+      "last_modified": "2021-06-04T23:23:10+06:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research Work",
+      "author": [],
+      "contents": "\r\nExploring the linkage between human Capital and Economic Growth\r\nIn this paper we tried to see if there is any linkage between human capital and economic growth.\r\nAsymmetric and skill wise labor migration\r\nIn this paper we tried to see if labor migration from developing country gives different remittances if they are divided into skill wise labor migration.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-04T23:23:10+06:00"
     }
   ],
   "collections": []

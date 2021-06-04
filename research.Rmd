@@ -1,0 +1,18 @@
+---
+title: "Research Work"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Exploring the linkage between human Capital and Economic Growth
+In this paper we tried to see if there is any linkage between human capital and economic growth.
+
+## Asymmetric and skill wise labor migration
+In this paper we tried to see if labor migration from developing country gives different remittances if they are divided into skill wise labor migration.
+
+
+
+
+

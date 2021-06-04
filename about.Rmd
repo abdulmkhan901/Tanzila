@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "About Tanzila Sultana"
 description: |
-  I am the evil princess and like to eat chocalate in her golden pony. I like to agonize other people cause my actual name is Torture Sultana.
+  As a research enthusiast from the beginning of her student life, Tanzila Sultana wants to be a prominent social science researcher in Bangladesh. She obtained her knowledge and experiences on various steps of research like survey, survey supervision, data collection, analyzing, and report writing while working with many remarkable and distinguished researchers. Her research interest lies in the domain of labor economic dynamics in the South Asian region through the lens of behavioral economics.
 ---
 
 ```{r setup, include=FALSE}
